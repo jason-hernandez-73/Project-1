@@ -11,7 +11,7 @@ We used csv files from the World Bank for 1995-2019 data on GDP, per capita CO2 
 
 Population, in itself, was not a useful metric. Every country had a steadily rising population. However, population was needed to calculate per capita GDP, since the data available was only for total GDP.
 
-As expected, we found that countries with the highest per capita GDP also had the highest per capita CO2 emissions. However, when countries were categorized by income (Gross National Income, or GNI), we found that the highest-income countries had declining per-capita CO2 emissions, even though their total CO2 emissions were rising. We attribute this to investment in more efficient technology which lower-income countries cannot afford.
+As expected, we found that countries with the highest per capita GDP also had the highest per capita CO2 emissions. However, when countries were categorized by income (Gross National Income, or GNI), we found countries in all income categories had declining per-capita CO2 emissions, even though their total CO2 emissions were rising. We attribute this to improvements in efficient technology.
 
 
 =======
