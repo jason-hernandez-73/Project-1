@@ -4,7 +4,6 @@
 
 ### The participants are: Jason Hernandez, Jason Fung, Kevin Lee
 
-<<<<<<< HEAD
 We investigated the connection between CO2 emissions, population, and GDP. How are per capita CO2 emissions influenced by per capita GDP? We hypothesize that countries with a higher per capita GDP will have higher per capita CO2 emissions, but is the relationship linear, or another shape?
 
 We used csv files from the World Bank for 1995-2019 data on GDP, per capita CO2 emissions, and population, by country. Per capita GDP is found by dividing GDP by population. We plotted CO2 vs. GDP for five country income categories.
